@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is George, I am a developer with a passion for websites, based in the UK. 
+
+**Current Projects:**
+[AI Writing Prompt](https://github.com/georgeday06/AI-Writing-Prompt)
+
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeday06)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeday06&layout=compact)
