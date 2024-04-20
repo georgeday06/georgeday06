@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is George, I am a developer with a passion for websites, based in the UK. 
+My name is George, I am a developer with a strong passion for website development, based in the UK. 
 
 **Current Projects:**
 [AI Writing Prompt](https://github.com/georgeday06/AI-Writing-Prompt)
